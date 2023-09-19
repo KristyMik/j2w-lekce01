@@ -11,8 +11,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: white;
-    color: black;
+    background-color: mediumpurple;
+    color: rebeccapurple;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
 }
 
 .jumbotron {
